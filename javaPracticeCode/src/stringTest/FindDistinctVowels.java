@@ -4,6 +4,7 @@ import java.util.HashMap;
 
 public class FindDistinctVowels {
 
+    //find distinct vowel in a String
     public static void main(String args[])
     {
         String givenString = "PowerShell detected that you might be using a screen reader and has disabled PSReadLine for compatibility purposes. If you want to re-enable it, run 'Import-Module PSReadLine'.";
